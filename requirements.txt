@@ -1,5 +1,3 @@
 requests
-pycryptodomex
-pycryptodome
-telebot
-user_agent
+ms4
+python-cfonts
